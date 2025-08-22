@@ -47,7 +47,7 @@ A proposta é oferecer um **marketplace confiável e simples**, focado em **Cons
 
 ---
 
-## 📅 Roadmap (12 meses)
+## Roadmap (12 meses)
 - **Mês 1–2**: protótipos (Figma) + setup do GitHub.  
 - **Mês 3–4**: MVP (cadastro, pedidos, chat).  
 - **Mês 5**: integração de pagamentos.  
@@ -58,7 +58,7 @@ A proposta é oferecer um **marketplace confiável e simples**, focado em **Cons
 
 ---
 
-## 🛠️ Stack (em estudo)
+## Stack (em estudo)
 - **Mobile**: React Native (Expo).  
 - **Back-end**: Supabase (mais rápido) ou Node/NestJS + Postgres (mais controle).  
 - **Pagamentos**: integração PIX/cartão via Pagar.me, Mercado Pago ou Asaas.  
@@ -66,7 +66,7 @@ A proposta é oferecer um **marketplace confiável e simples**, focado em **Cons
 
 ---
 
-## 📊 Metas de Validação
+##  Metas de Validação
 - 150+ usuários ativos.  
 - 80+ profissionais cadastrados.  
 - 200+ serviços concluídos.  
@@ -74,12 +74,12 @@ A proposta é oferecer um **marketplace confiável e simples**, focado em **Cons
 
 ---
 
-## 📣 Status Atual
+##  Status Atual
  Projeto em fase inicial (ideação + protótipos).  
 👨‍💻esenvolvimento solo com meta de 1 ano para MVP funcional.  
 🗂Este repositório servirá como **central de documentação e progresso**.  
 
 ---
 
-## 📄 Licença
+##  Licença
 Este projeto será publicado sob a licença **MIT** (livre para uso e modificação), mas com foco em crescimento e validação local.  
