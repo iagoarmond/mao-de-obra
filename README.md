@@ -1,5 +1,5 @@
 # mao-de-obra
-# Mão de Obra / O Cara Certo 🛠️
+# Mão de Obra / O Cara Certo 🛠
 
 ##  Visão Geral
 O **Mão de Obra** (também chamado de **O Cara Certo**) é um aplicativo **regional** para conectar clientes a profissionais de serviços práticos como **eletricistas, encanadores, pedreiros, diaristas, pintores e outros**.  
@@ -30,7 +30,7 @@ A proposta é oferecer um **marketplace confiável e simples**, focado em **Cons
 
 ---
 
-## 🛡 Segurança
+##  Segurança
 - Verificação de documentos e selfie dos profissionais.
 - Quiz de boas práticas antes de liberar o cadastro.
 - Pagamento dentro do app (com bloqueio/liberação).
@@ -76,8 +76,8 @@ A proposta é oferecer um **marketplace confiável e simples**, focado em **Cons
 
 ##  Status Atual
  Projeto em fase inicial (ideação + protótipos).  
-👨‍💻esenvolvimento solo com meta de 1 ano para MVP funcional.  
-🗂Este repositório servirá como **central de documentação e progresso**.  
+Desenvolvimento solo com meta de 1 ano para MVP funcional.  
+Este repositório servirá como **central de documentação e progresso**.  
 
 ---
 
